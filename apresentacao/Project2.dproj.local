@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/04 08:36:32.000.379,=C:\Users\iago.holek\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/04 08:46:11.000.439,C:\Users\iago.holek\Documents\Embarcadero\Studio\Projects\Unit2.dfm=E:\projetinhos\apresentacao\formPrinc\viewPrinc.dfm</Transaction>
+    <Transaction>2022/10/04 08:46:11.000.439,C:\Users\iago.holek\Documents\Embarcadero\Studio\Projects\Unit2.pas=E:\projetinhos\apresentacao\formPrinc\viewPrinc.pas</Transaction>
+    <Transaction>2022/10/04 08:46:17.000.694,C:\Users\iago.holek\Documents\Embarcadero\Studio\Projects\Project2.dproj=E:\projetinhos\apresentacao\Project2.dproj</Transaction>
+    <Transaction>2022/10/04 09:00:38.000.688,=E:\projetinhos\apresentacao\Unit1.pas</Transaction>
+    <Transaction>2022/10/04 09:03:14.000.816,E:\projetinhos\apresentacao\Unit1.pas=E:\projetinhos\apresentacao\interfaces\uIGuardaObjetoCliente.pas</Transaction>
+    <Transaction>2022/10/04 09:03:21.000.771,=E:\projetinhos\apresentacao\Unit1.pas</Transaction>
+    <Transaction>2022/10/04 09:04:49.000.115,E:\projetinhos\apresentacao\Unit1.pas=E:\projetinhos\apresentacao\classes\uGuardaObjetoCliente.pas</Transaction>
+    <Transaction>2022/10/04 09:09:57.000.868,=E:\projetinhos\apresentacao\Unit1.pas</Transaction>
+    <Transaction>2022/10/04 09:12:57.000.233,E:\projetinhos\apresentacao\Unit1.pas=E:\projetinhos\apresentacao\interfaces\uIControllerCadastroCliente.pas</Transaction>
+    <Transaction>2022/10/04 09:13:00.000.672,=E:\projetinhos\apresentacao\Unit1.pas</Transaction>
+    <Transaction>2022/10/04 09:14:51.000.855,E:\projetinhos\apresentacao\Unit1.pas=E:\projetinhos\apresentacao\classes\uControllerCadastroCliente.pas</Transaction>
+    <Transaction>2022/10/04 09:14:56.000.815,=E:\projetinhos\apresentacao\Unit1.pas</Transaction>
+    <Transaction>2022/10/04 09:15:34.000.871,E:\projetinhos\apresentacao\Unit1.pas=E:\projetinhos\apresentacao\interfaces\uIModelCadastroCliente.pas</Transaction>
+    <Transaction>2022/10/04 09:16:20.000.564,=E:\projetinhos\apresentacao\Unit1.pas</Transaction>
+    <Transaction>2022/10/04 09:17:19.000.115,E:\projetinhos\apresentacao\Unit1.pas=E:\projetinhos\apresentacao\classes\uModelCadastroCliente.pas</Transaction>
+    <Transaction>2022/10/04 11:16:12.000.859,=E:\projetinhos\apresentacao\Unit1.pas</Transaction>
+    <Transaction>2022/10/04 11:17:52.000.953,E:\projetinhos\apresentacao\Unit1.pas=E:\projetinhos\apresentacao\resourcestring\uResourceStringCadCliente.pas</Transaction>
+  </Transactions>
+</BorlandProject>
